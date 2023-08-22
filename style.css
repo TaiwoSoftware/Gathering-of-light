@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* html{
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+} */
+.logo{
+    border-radius: 50%;
+}
+html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+header {
+    padding: .5rem;
+    /* background-color: white; */
+}
+
+header img{
+    width: 10%;
+    margin-left: 35rem;
+}
+li{
+    list-style: none;
+    display: inline;
+}
+
+main h1{
+    font-size: 6rem;
+    width: 60%;
+    margin-top: 4rem;
+    color: #fefbea;
+}
+
+.header {
+    padding: 2rem;
+    display: flex;
+}
